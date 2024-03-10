@@ -6,7 +6,7 @@ import { useTokenMeta } from "gamba-react-ui-v2";
 
 // Solana address you wish to receive fees
 export const PLATFORM_CREATOR_ADDRESS = new PublicKey(
-  "GzzWXXDjLD4FDwDkWB5sARjC2aaLSfCQDjx3dmpoTY7K",
+  "4UKd7ZYo1SbvLgV1eVKwrGpsK9XsFwB35itfggSGrMSq",
 );
 
 // Creator fee (in %)
