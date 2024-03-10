@@ -10,18 +10,18 @@ export default function HomePage() {
   return (
     <>
       <Head>
-        <title>Gamba v2 Casino Platform - Next.js</title>
-        <meta name="title" content="Gamba v2 Casino Platform - Next.js" />
+        <title>Capybara Casino Platform</title>
+        <meta name="title" content="Capybara Casino Platform" />
         <meta
           name="description"
-          content="A fair, simple, and decentralized casino on Solana."
+          content="A fair, simple, and decentralized casino on Solana. Build by commmunity "
         />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://gamba-v2-nextjs.vercel.app/" />
         <meta
           property="og:title"
-          content="Gamba v2 Casino Platform - Next.js"
+          content="Capybara Casino Platform"
         />
         <meta
           property="og:description"
@@ -39,7 +39,7 @@ export default function HomePage() {
         />
         <meta
           property="twitter:title"
-          content="Gamba v2 Casino Platform - Next.js"
+          content="Capybara Casino Platform"
         />
         <meta
           property="twitter:description"
