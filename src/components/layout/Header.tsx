@@ -65,7 +65,7 @@ export default function Header() {
         <div className="flex gap-5 items-center">
           <Link href="/" passHref>
             <div className="h-9 m-0 cursor-pointer">
-              <img alt="Gamba logo" src="/logo.svg" className="h-full" />
+              <img alt="Gamba logo" src="/favicon-32x32.png" className="h-full" />
             </div>
           </Link>
         </div>
