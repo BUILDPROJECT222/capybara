@@ -23,10 +23,10 @@ export function WelcomeBanner() {
       </div>
       <div className="button-container">
         <Buttons>
-          <button className="creative-button" onClick={() => window.open('https://t.me/solcade/', '_blank')}>
+          <button className="creative-button" onClick={() => window.open('https://t.me/capybaramansol', '_blank')}>
             🚀 Telegram
           </button>
-          <button className="creative-button" onClick={() => window.open('https://twitter.com/solcadebets', '_blank')}>
+          <button className="creative-button" onClick={() => window.open('https://x.com/capy_solana', '_blank')}>
             🚀 Twitter
           </button>
         </Buttons>
